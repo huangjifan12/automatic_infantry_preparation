@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hjf/rmvision/task/Binocular_vision/demo/build/src",
+  "command": "/bin/clang++-10  -I/home/hjf/rmvision/task/Binocular_vision/demo/src/../include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/binocular_vision_demo.dir/binocular_vision_01.cpp.o -c /home/hjf/rmvision/task/Binocular_vision/demo/src/binocular_vision_01.cpp",
+  "file": "/home/hjf/rmvision/task/Binocular_vision/demo/src/binocular_vision_01.cpp"
+}
+]
